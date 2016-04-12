@@ -13,5 +13,6 @@ This is a simple puzzle game known as Tower of Hanoi. There are three rods and 6
 This game is made using windows.h library on Code::Blocks IDE having GNU GCC compiler
 
 #### Written By:
-Shivam Shekhar
+
+Shivam Shekhar  
 Email: shivam.shekhar.ece14@itbhu.ac.in
